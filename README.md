@@ -1,8 +1,5 @@
 ### Olá! Eu sou a Gláucia Pacheco.
 
-- Aprendiz de Tecnologia.
-
-- Atualmente estou aprendendo Front- End, HTML, CSS, JavaScript.
 
 <div>
   <a href="https://github.com/glauciapacheco">
